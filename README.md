@@ -1,1 +1,3 @@
-# ignite_rocketseat
+# Ignite Rocketseat
+
+### Storage for Ignite courses
